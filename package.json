@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/BrunoAOSilva/nodeJSTest/issues"
   },
-  "homepage": "https://github.com/BrunoAOSilva/nodeJSTest#readme"
+  "homepage": "https://github.com/BrunoAOSilva/nodeJSTest#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  },
+  "dependencies": {
+    "uuid": "^8.0.0"
+  }
 }
